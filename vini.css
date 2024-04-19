@@ -1,0 +1,142 @@
+/* Estilos gerais */
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #363636;
+ }
+ /* Estilos do cabeçalho */
+ header {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+ }
+ /* Estilos do título principal */
+ h1 {
+    font-size: 30px;
+    color: red;
+    margin: 0;
+ }
+ h3 {
+    font-size: 28px;
+    color: red;
+    margin: 0;
+ }
+ /* Estilos para parágrafos */
+ p {
+    font-size: 20px;
+    margin: 30px 0;
+    color: white;
+ }
+ /* Estilos da imagem do banner */
+ img#banner {
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+ }
+ /* Estilos do iframe */
+ iframe {
+    width: 700px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+ }
+ /* Estilos para a classe .Integrantes */
+ .Integrantes {
+    text-align: left;
+ }
+ /* Estilos para listas não ordenadas */
+ ul {
+    list-style: none;
+    padding: 0;
+ }
+ /* Estilos para itens de lista */
+ li {
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 10px;
+ }
+ /* Estilos para títulos de segundo nível */
+ h2 {
+    color: white;
+    margin: 0;
+ }
+ 
+ 
+ h3{
+    color: #FFF;
+ }
+ 
+ 
+ /* Estilos da imagem dos integrantes */
+ img#FotoDosIntegrantes {
+    width: 1300px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+ }
+ /* Estilos para a classe .seloko */
+ .seloko {
+    background: #808080;
+    box-shadow: 4.2px 7px red, -1em 0 0.5em darkred;
+ }
+ /* Estilos para lista não ordenada */
+ ul {
+    margin: 0;
+    padding: 0;
+ }
+ /* Estilos para itens de lista */
+ li {
+    list-style: none;
+    margin: 10px;
+    display: inline;
+ }
+ /* Estilos para links */
+ li a {
+    padding: 5px 10px;
+    margin: 0;
+    border: 0px solid #f00;
+    background: #903;
+    text-decoration: none;
+    color: #FFF;
+    /* Cantos arredondados */
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+ }
+ /* Estilos para links quando hover */
+ li a:hover {
+    background: #CCC;
+    color: #000;
+    border-color: #000;
+ }
+ /* Estilos do rodapé */
+ .rodape {
+    background-color: #60316b;
+    color: white;
+    height: auto;
+    width: 100%;
+    font-size: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+ }
+ /* Estilos para links no rodapé */
+ .rodape a {
+    text-decoration: none;
+    color: white;
+ }
+ /* Estilos para parágrafos no rodapé */
+ .rodape p {
+    margin-bottom: 5px;
+ }
+ /* Estilos para a div do rodapé */
+ .rodape-div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: auto;
+    align-items: stretch;
+    padding: 60px;
+ }
+ 
+ 
